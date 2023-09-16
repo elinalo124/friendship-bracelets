@@ -1,0 +1,1 @@
+SPECIAL_CHARACTERS = r'[!@#$%^&*(),.?":{}|<> ]'
